@@ -68,6 +68,8 @@ body{
 
 .abas-textos{
     background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
 }
 
 @media screen and (min-width: 768px) {
