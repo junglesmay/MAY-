@@ -39,7 +39,6 @@ function calculaTempo(tempoObjetivo){
   } else{
     return "Prazo Finalizado";
   }
-  
 }
 
 function atualizaCronometro(){
@@ -53,4 +52,4 @@ function comecaCronometro(){
   setInterval(atualizaCronometro(),1000);
 }
 
-comecaCronometro();
+//comecaCronometro();
